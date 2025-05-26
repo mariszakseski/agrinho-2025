@@ -71,6 +71,7 @@ nav .menu {
   align-items: center;
   padding: 40px 20px;
   gap: 20px;
+  text-align: center;
 }
 
 .conteudo.invertido {
