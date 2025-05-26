@@ -2,6 +2,7 @@
   --cor-de-fundo: #27445D;
   --cor-de-texto:#EFE9D5;
   --cor-texto-dois:#71BBB2;
+
 }
 
 body {
@@ -25,6 +26,7 @@ header {
   display: flex;
   align-items: center;
   gap: 15px;
+  font-family: ;
 }
 
 .logo-titulo img {
